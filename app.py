@@ -96,4 +96,4 @@ if st.checkbox("📊 Show Feature Importance (if available)"):
 st.markdown("---")
 
 
-st.caption("Built with ❤️ by Akash Kumar Nayak")
+st.caption("Built with ❤️ by Biswanath Bhuyan | [GitHub](https://github.com/biswanath-bhuyan)")
