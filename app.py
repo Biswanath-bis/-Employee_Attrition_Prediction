@@ -31,7 +31,7 @@ Classifies employees into risk categories (Low, Medium, High) with confidence sc
 💼 Business Impact:
 Helps HR teams proactively identify at-risk employees, reduce turnover costs, and improve retention strategies.
 
-**👨‍💻 Built By:** Akash Kumar Nayak  
+**👨‍💻 Built By:** Biswanath Bhuyan
 
 **Use Case:** Predict outcome based on user input  
 """)
