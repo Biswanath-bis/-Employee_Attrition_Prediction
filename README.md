@@ -170,7 +170,7 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author  
-**Akash Nayak**  
-📊 Data Scientist | Machine Learning & BI Developer  
-📧 your.email@example.com  
-🌐 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
+**Biswanath Bhuyan**  
+📊 AI/ML Engineer| Data Scientiat  
+📧 info.biswanath.bhuyan@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/biswanath-bhuyan/) • [GitHub](https://github.com/Biswanath-bis)
