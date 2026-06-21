@@ -172,5 +172,5 @@ streamlit run app.py
 ## 👨‍💻 Author  
 **Biswanath Bhuyan**  
 📊 AI/ML Engineer| Data Scientiat  
-📧   
+📧 info.biswanath.bhuyan@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/biswanath-bhuyan/) • [GitHub](https://github.com/Biswanath-bis)
